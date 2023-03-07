@@ -1,15 +1,13 @@
 <h1 align="center"> GPT3 </h1>
 
-<p align="center">
 Projeto desenvolvido em React, com base nos ensinamentos do vídeo - [Build and Deploy a Fully Responsive Modern UI/UX Website in React JS](https://youtu.be/LMagNcngvcU) do canal [@javascriptmastery](https://www.youtube.com/@javascriptmastery) no Youtube. 
-</p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instruções">Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instruções"> 📋 Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">🔖 Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">📝 Licença</a>
 </p>
 
 <br>
@@ -25,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/)
 - [ReactJS](https://reactjs.org/)
 
+<br>
 
 ## 💻 Projeto
 
@@ -45,8 +44,6 @@ $ cd gpt3
 <br>
 
 ### Siga o passo a passo:
-
-#### Versão Web
 
 Instale as dependências
 ```bash
@@ -72,7 +69,9 @@ Você pode acessar o site através [DESSE LINK](https://thiagomonts-gpt3.vercel.
 
 Caso prefira, você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1).
 
-## :memo: Licença
+<br>
+
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
